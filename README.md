@@ -14,4 +14,5 @@
 
 加下来，我们测试分支冲突。
 
-quick & simple
+quick 和simple，很好用。
+
